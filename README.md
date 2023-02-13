@@ -7,3 +7,4 @@ Autorzy: ego, alterego
 Zacznijmy od ulubionego filmu "Apollo 13"
 Lubie Ubuntu
 
+Ja dodaje prosty commit
